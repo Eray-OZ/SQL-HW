@@ -7,4 +7,3 @@ https://academy.patika.dev/tr
 
 
 
-Ödev 1-7 arasında dvdrental.tar veritabanı kullanılmıştır.
